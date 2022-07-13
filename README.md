@@ -10,12 +10,12 @@ This tutorial is intended to provide a basic introduction to Voyant and its tool
 This tutorial was originally designed for use by the 2022 cohort of Digital Scholarship Summer Fellows at Bryn Mawr College and may therefore at times direct the learner towards particular textual corpora relevant to that program.  You are encouraged to make use of textual corpora which better suit your own reasearch needs and interests. 
 
 ## Contents:
-1. [Basic information about Voyant]()
-2. [Accessing Voyant]()
-3. [Creating a corpus]()
-4. [Basic exploration]()
-5. [Advanced exploration]()
-6. [Beyond Voyant]()
+1. [Basic information about Voyant](topics/1-basic.md)
+2. [Accessing Voyant](topics/2-install.md)
+3. [Creating a corpus](topics/3-corpus.md)
+4. [Basic exploration](topics/4-defaults.md)
+5. [Advanced exploration](topics/5-advanced.md)
+6. [Beyond Voyant](topics/6-beyond.md)
 
 ## Helpful links:
 - [Voyant documentation](https://voyant-tools.org/docs/#!/guide)
