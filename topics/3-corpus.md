@@ -17,6 +17,8 @@ Take a moment to practice creating corpora from different sources. You may find 
 
 You can refer to the [Voyant doucmentation](https://voyant-tools.org/docs/#!/guide/corpuscreator) for additional details on creating a corpus from different file formats.
 
+If you need to modify a coprpus that you have already created, you can do so by clicking on the "modify" button of the documents tool (by default in the lower left-hand corner). This will allow you to add new documents to the corpus, remove exisiting documents, or to reorder the corpus. 
+
 ## Adding text from *Encyclopedia of the Dog*
 
 Let's create a corpus related to the ongoing work of the 2022 Digital Scholarship Summer Fellows program at Bryn Mawr College. (If you're not a current DSSF, feel free to create a corpus that speaks to you!)
