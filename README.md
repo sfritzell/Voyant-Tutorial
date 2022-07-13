@@ -25,4 +25,4 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016. Voyant Tools. Web. http://voyant-
 
 ---
 
-[Start Tutorial >>>](1-basic.md)
+[Start Tutorial >>>](topics/1-basic.md)
