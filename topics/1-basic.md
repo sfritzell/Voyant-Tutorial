@@ -15,7 +15,9 @@ Because Voyant is open-source (and a continuous work in progress), it may not al
 
 As part of its goal of lowering the entry-barrier for text analysis, while providing a balance between user-friendliness and analytical functionality, you do not need to install or create a log-in to use Voyant. Similarly, Voyant allows you to work with a wide variety of text formats, including plain text, PDF, XML, HTML, MS Word, and RTF. As a tool it has the advantage of being able to work in almost any language (so long as it can be represented in Unicode!), but because of this it lacks some of the functionality that language-specific tools might employ (such as features necessary for semantic analysis). 
 
-Voyant does not aim to be your only tool for textual analysis, however, and you should absolutely use other analyitical tools to complement your work in Voyant as needed! Instead, Voyant is intended to be used as a tool for exploration which can assist you in some interpretive practices. It cannot tell you what questions to ask or provide unshakable results, but your use of it may allow you to notice interesting patterns and develop some compelling interpretive theories.  
+Voyant does not aim to be your only tool for textual analysis, however, and you should absolutely use other analyitical tools to complement your work in Voyant as needed! Instead, Voyant is intended to be used as a tool for exploration which can assist you in some interpretive practices. It cannot tell you what questions to ask or provide unshakable results, but your use of it may allow you to notice interesting patterns and develop some compelling interpretive theories.
+
+You can read more about the design principles and technical aspects of Voyant in the ["About" page of the documentation](https://voyant-tools.org/docs/#!/guide/about).
 
 ---
 
