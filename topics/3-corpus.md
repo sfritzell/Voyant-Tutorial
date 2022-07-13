@@ -17,7 +17,7 @@ Take a moment to practice creating corpora from different sources. You may find 
 
 You can refer to the [Voyant doucmentation](https://voyant-tools.org/docs/#!/guide/corpuscreator) for additional details on creating a corpus from different file formats.
 
-If you need to modify a coprpus that you have already created, you can do so by clicking on the "modify" button of the documents tool (by default in the lower left-hand corner). This will allow you to add new documents to the corpus, remove exisiting documents, or to reorder the corpus. 
+If you need to modify a coprpus that you have already created, you can do so by clicking on the "modify" button of the documents tool (by default in the lower left-hand corner). This will allow you to add new documents to the corpus, remove exisiting documents, or to reorder the corpus. Note that only one operation for modifying a corpus can be done at a time.
 
 ## Adding text from *Encyclopedia of the Dog*
 
