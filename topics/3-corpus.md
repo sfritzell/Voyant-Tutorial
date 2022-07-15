@@ -13,11 +13,11 @@ Take a moment to practice creating corpora from different sources. You may find 
 - enter one URL per line
 - when uploading you can use Shift and CTRL to select multiple files
 - you can create a zip file on your computer and upload that, rather than selecting multiple documents
-- you can click on the "home" icon in the upper right hand corner to start over
+- you can click on the "home" icon in the upper right hand corner of the Voyant screen to start over
 
 You can refer to the [Voyant doucmentation](https://voyant-tools.org/docs/#!/guide/corpuscreator) for additional details on creating a corpus from different file formats.
 
-If you need to modify a coprpus that you have already created, you can do so by clicking on the "modify" button of the documents tool (by default in the lower left-hand corner). This will allow you to add new documents to the corpus, remove exisiting documents, or to reorder the corpus. Note that only one operation for modifying a corpus can be done at a time.
+If you need to modify a coprpus that you have already created, you can do so by clicking on the "modify" button of the documents tool (by default in the lower left-hand corner). This will allow you to add new documents to the corpus, remove exisiting documents, or reorder the corpus. Note that only one operation for modifying a corpus can be done at a time.
 
 ## Adding text from *Encyclopedia of the Dog*
 
