@@ -15,7 +15,7 @@ Cirrus has a slider near the bottom (with the label "scale") that allows you to 
 Clicking on the "options" icon (it looks like the power-on / power-off slider on an iPhone) provides you with a dialog box where additional settings can be modified. These include:
 
 - Stopwords: a defined set of words to exclude from analysis
-- White list: the opposite of a stopword list, a defined set of words allowed to be displayed in Cirrus
+- White list: the opposite of a stopword list, a defined set of words that are allowed to be displayed in Cirrus
 - Categories: defined sets of related words, which may, for example, be used for semantic analysis
 - Font family: a web-safe set of fonts which you can choose for display
 - Palette: the color palette used in display
@@ -34,7 +34,7 @@ You can specify search terms either by clicking on works in the Text Reader, or 
 
 A distribution graph displaying the frequency of terms accross documents in a corpus (or segements in a document). 
 
-Each series in the graph is coloured according to the word it represents. A legend at the top of the graph displays which words are associated with which colours. Clicking on words in the legend will affect their visibility in the graph. Hovering over any point in the graph activates a popup with information about that point, including the word, its frequency, and the document or document segment. For corpora consisting of multiple documents, like ours, double-clicking on a point allows you to "drill down" or view the frequency of that word accross a document within the corpus.
+Each series in the graph is coloured according to the word it represents. A legend at the top of the graph displays which words are associated with which colors. Clicking on words in the legend will affect their visibility in the graph. Hovering over any point in the graph activates a popup with information about that point, including the word, its frequency, and the document or document segment. For corpora consisting of multiple documents, like ours, double-clicking on a point allows you to "drill down" or view the frequency of that word accross a single document within the corpus.
 
 If you would like to specify what terms are displayed on the graph, you can do so using the search box at the bottom of the tool panel.
 
@@ -44,7 +44,7 @@ Clicking on the "reset" button at the bottom of this tool will return you to the
 
 ### 4. Summary
 
-Provides a simple, textual overview of the current corpus, including the total word count, number of unique words, longest and shortest documents, the highest and lowest vocabulary density, average number of words per sentence, the most frequent words, notale peaks in word frequency, and distincitve words accross each document in the corpus. 
+Provides a simple, textual overview of the current corpus, including the total word count, number of unique words, longest and shortest documents, the highest and lowest vocabulary density, average number of words per sentence, the most frequent words, notable peaks in word frequency, and distincitve words accross each document in the corpus. 
 
 ### 5. Contexts
 
@@ -57,7 +57,7 @@ By default, this tool takes the appearnace of a table with four columns:
 3. Term: the keyword itself
 4. Right: the contextual content appearing to the immediate right of the keyword in the document
 
-By clicking on the caret at the top of the "left" column you can choose to add an additional column called "position", which displays the position (token index) of the term in the document.
+By clicking on the caret at the top of any column you can choose to add an additional column called "position" to the table, which displays the position (token index) of the term in the document.
 
 Use the search box at the bottom of the tool panel to specify which keyword to use with this tool. You can also use the "context" slider to specify how many words to consider as context on either side of the keyword, or the "expand" slider to specify how many words to display when you expand a given row. 
 
