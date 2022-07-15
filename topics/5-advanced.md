@@ -4,11 +4,11 @@ As a tool, Voyant represents an ongoing negotiation between simplicity and power
 
 ## Searching
 
-Several of the tools provided by Voyant support a search function. While it is possible to search for a single word, special syntax can be used to conduct more advanced searches. Here are some examples of that syntax, but if your forget, over over the "question" icon next to a search box will refresh your memory!
+Several of the tools provided by Voyant support a search function. While it is possible to search for a single word, special syntax can be used to conduct more advanced searches. Here are some examples of that syntax, but if you forget, hovering over the "question" icon next to a search box will refresh your memory!
 
 - __love__: exact word match
 - __lov*__: combine all words that start with "lov"
-- __^lov*__
+- __^lov*__: separate all words that start with "lov"
 - __love|loves__: combine all words separated by a pipe |
 - __"he loves"__: exact phrase match
 - __"she he love*"~10__: all words within a proximity of 10 words
@@ -25,7 +25,7 @@ Grid-based tools (which look like spreadsheets) provide another example of some 
 - selected rows should persist even when querying for additional data
 - some grids have a plus icon (leftmost colunm) that allows the user to expand more information about that row
 - most grids have "infinite scrolling" which means that more rows will be loaded dynamically as needed and as available
-- hovering over most column headers will cause an arrow to appear in the right part of the column header, click on it for further options:
+- hovering over most column headers will cause an arrow to appear in the right part of the column header, click on it for further options such as:
   - another way of sorting
   - a way of selecting additional columns to display
 
@@ -33,7 +33,7 @@ Grid-based tools (which look like spreadsheets) provide another example of some 
 
 There are many analytical tools available in Voyant aside from the five that appear in the default "skin" or view. You may have already discovered one way of accessing some of these by clicking on a tab in one of the default tool panes. (For example, the Cirrus tool can be replaced by the Terms or Links tools simply by clicking on the tab).
 
-These tabs are pre-programmed alternatives, but you can also choose from a much longer list of tools by clicking on the little window icon that appears when hovering over the header (either the blue header at the top that replaces all of the tools in the window or the grey header in each tool panel that replaces just that tool). When exploring alternate tools, Voyant will provide suggestions using the following categories:
+These tabs are pre-programmed alternatives, but you can also choose from a much longer list of tools by clicking on the little window icon that appears when hovering over the header (either the blue header at the top of the page that replaces all of the tools in the window or the grey header in each tool panel that replaces just that tool). When exploring alternate tools, Voyant will provide suggestions using the following categories:
 
 - the first tools above the line are recommended alternatives
 - corpus tools: showing data about the corpus as a whole
