@@ -1,6 +1,6 @@
 # Accessing Voyant
 
-Voyant provides a hosted version of their tools online which you can access at https://voyant-tools.org . You may wish to install the Voyant server as a stand-alone version on your computer, however, which carries a number of potential benfits, including performance optimization, reliability, security, and privacy. 
+Voyant provides a hosted version of their tools online which you can access at https://voyant-tools.org . You may wish to install the Voyant server as a stand-alone version on your computer, however, which carries a number of potential benfits, including performance optimization, reliability, security, and privacy. The following section provides instructions on installing a local version of Voyant.
 
 ## Installing Voyant
 
