@@ -10,6 +10,8 @@ Let's explore a few of the default tools included with Voyant and some of the op
 
 A word cloud showing the most frequently occuring words in the corpus or document. Hovering above a term will display its frequency.
 
+![Screenshot of the Cirrus tool](/assets/Voyant-Cirrus-Hover.png)
+
 Cirrus has a slider near the bottom (with the label "scale") that allows you to adjust the number of words displayed by increments of 25. By default the minimum value allowed is 25 and the maximum value is 500.
 
 Clicking on the "options" icon (it looks like the power-on / power-off slider on an iPhone) provides you with a dialog box where additional settings can be modified. These include:
