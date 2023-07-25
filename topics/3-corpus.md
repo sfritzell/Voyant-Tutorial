@@ -25,6 +25,8 @@ Let's create a corpus related to the ongoing work of the 2022 Digital Scholarshi
 
 Navigate to the current [*Encyclopedia of the Dog* website](https://digitalscholarship.brynmawr.edu/dog/). Let's copy the URLs for each chapter in English translation and add them to the main text box in Voyant. (Remember, only one URL per line). When you've added each URL, hit "reveal" to create your corpus!
 
+![Screenshot of URL links listed in Voyant "Add Texts" screen.](/assests/Voyant-Corpus-Create.png)
+
 ---
 
 [<<< Previous](2-install.md) | [Next >>>](4-defaults.md)
