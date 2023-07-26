@@ -14,4 +14,4 @@ Once you open VoyantServer.jar a controller application will appear, which allow
 
 ---
 
-[<<< Previous](1-basic.md) | [Next >>>](3-corpus.md)
+[< Previous](1-basic.md) | [Next >](3-corpus.md)
