@@ -21,4 +21,4 @@ You can read more about the design principles and technical aspects of Voyant in
 
 ---
 
-[Next >>>](2-install.md)
+[< Home](https://sfritzell.github.io/Voyant-Tutorial/) | [Next >](2-install.md)
