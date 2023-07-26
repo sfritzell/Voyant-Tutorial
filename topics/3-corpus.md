@@ -29,4 +29,4 @@ Navigate to the current [*Encyclopedia of the Dog* website](https://digitalschol
 
 ---
 
-[<<< Previous](2-install.md) | [Next >>>](4-defaults.md)
+[< Previous](2-install.md) | [Next >](4-defaults.md)
