@@ -50,4 +50,4 @@ For further information on all the tools supported by Voyant, refer to the [docu
 
 ---
 
-[<<< Previous](4-defaults.md) | [Next >>>](6-beyond.md)
+[< Previous](4-defaults.md) | [Next >](6-beyond.md)
