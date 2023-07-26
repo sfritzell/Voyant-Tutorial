@@ -86,4 +86,4 @@ An essential part of Voyant is that events in one tool can cause changes in othe
 
 ---
 
-[<<< Previous](3-corpus.md) | [Next >>>](5-advanced.md)
+[< Previous](3-corpus.md) | [Next >](5-advanced.md)
