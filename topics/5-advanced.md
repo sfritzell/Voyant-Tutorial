@@ -17,7 +17,7 @@ Several of the tools provided by Voyant support a search function. While it is p
 
 Grid-based tools (which look like spreadsheets) provide another example of some of Voyant's hidden functionality. Navigate to one of these tools and try out the following: 
 
-![Screenshot of a Grid-based tool with pop-up description of column values.]({{ site.baseurl }}/assets/Voyant-Grid-Hover.png)
+![Screenshot of a Grid-based tool with pop-up description of column values.](../assets/Voyant-Grid-Hover.png)
 
 - hover over the column header to get a short description of the column values
 - some columns allow you to sort values by that column by clicking on it (and clicking again to reverse the order)
@@ -37,7 +37,7 @@ There are many analytical tools available in Voyant aside from the five that app
 
 These tabs are pre-programmed alternatives, but you can also choose from a much longer list of tools by clicking on the little window icon that appears when hovering over the header (either the blue header at the top of the page that replaces all of the tools in the window or the grey header in each tool panel that replaces just that tool). When exploring alternate tools, Voyant will provide suggestions using the following categories:
 
-![Screenshot of alternate tool menu.]({{ site.baseurl }}/assets/Voyant-Alternates.png)
+![Screenshot of alternate tool menu.](../assets/Voyant-Alternates.png)
 
 - the first tools above the line are recommended alternatives
 - corpus tools: showing data about the corpus as a whole
