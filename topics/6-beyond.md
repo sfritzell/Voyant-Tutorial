@@ -22,4 +22,4 @@ You can also embed a specific page using the input parameter (or a variant forma
 
 ---
 
-[< Previous](5-advanced.md) | [Home >](https://sfritzell.github.io/Voyant-Tutorial/)
+[< Previous](5-advanced.md) | [Home >](../README.md)
