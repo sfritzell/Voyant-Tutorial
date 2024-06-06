@@ -9,7 +9,7 @@ Several of the tools provided by Voyant support a search function. While it is p
 - __love__: exact word match
 - __lov*__: combine all words that start with "lov"
 - __^lov*__: separate all words that start with "lov"
-- __love|loves__: combine all words separated by a pipe |
+- __love\|loves__: combine all words separated by a pipe \|
 - __"he loves"__: exact phrase match
 - __"she he love*"~10__: all words within a proximity of 10 words
 
